@@ -1,5 +1,5 @@
 ## Hello there, I'm Geovanne Washington 👋
-Full stack web developer based in Brazil.
+Full stack web developer based in Brazil, I work with the following technologies:
 
 <!--Technologies I work with Section-->
 <div style="display: inline_block"><br>
