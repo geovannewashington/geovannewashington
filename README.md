@@ -1,5 +1,5 @@
 ## Hello there, I'm Geovanne Washington 👋
-Full stack web developer based in Brazil, I work with the following technologies:
+<strong>Full Stack Web Developer</strong> based in Brazil, I work with the following technologies:
 <div style="display: inline_block">
   <!--Javascript-->
   <img align="center" alt="javascript-icon" height="30" width="40" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
