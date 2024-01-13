@@ -1,5 +1,5 @@
-## <h1>Hello there, I'm Geovanne Washington 👋</h1>
-<h2><strong>Full Stack Web Developer</strong> based in Brazil, I work with the following technologies:</h2>
+## Hello there, I'm Geovanne Washington 👋
+<strong>Full Stack Web Developer</strong> based in Brazil, I work with the following technologies:
 <div style="display: inline_block">
   <!--Javascript-->
   <img align="center" alt="javascript-icon" height="40" width="50" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
