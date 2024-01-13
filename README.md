@@ -1,7 +1,5 @@
 ## Hello there, I'm Geovanne Washington 👋
 Full stack web developer based in Brazil, I work with the following technologies:
-
-<!--Technologies I work with Section-->
 <div style="display: inline_block"><br>
   <!--Javascript-->
   <img align="center" alt="javascript-icon" height="30" width="40" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -27,4 +25,3 @@ Full stack web developer based in Brazil, I work with the following technologies
   <img align="center" alt="aws-icon" height="30" width="40" title="AWS - Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
   
- 
