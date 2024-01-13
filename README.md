@@ -23,5 +23,6 @@ Full stack web developer based in Brazil, I work with the following technologies
   <img align="center" alt="postgree-icon" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <!--Amazon AWS-->
   <img align="center" alt="aws-icon" height="30" width="40" title="AWS - Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-</div>
-  
+</div> <br>
+<em>A mind that is stretched by a new experience can never go back to its old dimensions</em>
+
