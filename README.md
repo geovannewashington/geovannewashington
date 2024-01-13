@@ -4,7 +4,7 @@ Full stack web developer based in Brazil.
 <!--Technologies I work with Section-->
 <div style="display: inline_block"><br>
   <!--Javascript-->
-  <img align="center" alt="javascript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="javascript-icon" height="30" width="40" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <!--Typescript-->
   <img align="center" alt="typescript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <!--React-->
