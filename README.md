@@ -14,7 +14,7 @@
   <!--CSS-->
   <img align="center" alt="css-icon" height="40" width="50" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <!--Tailwind-->
-  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://cdn.jsdelivr.net/npm/@jcamp/tailwindcss-plugin-icons@0.6.2/dist/index.min.js)">
   <!--NodeJS-->
   <img align="center" alt="node-icon" height="40" width="50" title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <!--JAVA-->
