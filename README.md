@@ -14,7 +14,7 @@
   <!--CSS-->
   <img align="center" alt="css-icon" height="40" width="50" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <!--Tailwind-->
-  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://cdn.jsdelivr.net/npm/@jcamp/tailwindcss-plugin-icons@0.6.2/dist/index.min.js)">
+  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
   <!--NodeJS-->
   <img align="center" alt="node-icon" height="40" width="50" title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <!--JAVA-->
@@ -22,7 +22,7 @@
   <!--PostgreSQL-->
   <img align="center" alt="postgree-icon" height="40" width="50" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <!--Amazon AWS-->
-  <img align="center" alt="aws-icon" height="40" width="50" title="AWS - Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="aws-icon" height="40" width="50" title="AWS - Amazon Web Services" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div> <br>
 <em>"A mind that is stretched by a new experience can never go back to its old dimensions" ~Oliver Wendell Holmes Jr.</em>
 
