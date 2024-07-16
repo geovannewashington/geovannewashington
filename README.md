@@ -1,7 +1,5 @@
 # Hello there, I'm Geovanne Washington 👋
 
-**21-year-old Computer Science student in Recife, Brazil at [Cin-UFPE](https://www.cin.ufpe.br)**
-
 **Full Stack Web Developer** based in Brazil, I work with the following technologies:
 
 <div style="display: inline_block"><br>
@@ -25,7 +23,7 @@
 
 ## About Me
 
-I'm a **Computer Science student** in Recife, Brazil at [Cin-UFPE](https://www.cin.ufpe.br). I specialize in building web applications using the latest technologies. Passionate about learning and expanding my skills, I enjoy taking on new challenges and working on innovative projects.
+I'm a **21-year-old Computer Science student in Recife, Brazil at [Cin-UFPE](https://www.cin.ufpe.br)**. I specialize in building web applications using the latest technologies. Passionate about learning and expanding my skills, I enjoy taking on new challenges and working on innovative projects.
 
 ## Technologies I Work With
 
