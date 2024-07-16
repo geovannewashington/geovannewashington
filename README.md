@@ -16,7 +16,7 @@
   <!-- CSS -->
   <img align="center" alt="css-icon" height="40" width="50" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <!-- Tailwind -->
-  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315cf8f9b858234310c06e04d9c/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <!-- NodeJS -->
   <img align="center" alt="node-icon" height="40" width="50" title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <!-- MongoDB -->
