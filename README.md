@@ -14,9 +14,9 @@
   <!--Tailwind-->
   <img align="center" alt="tailwind-icon" height="40" width="50" title="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg">
   <!--NodeJS-->
-  <img align="center" alt="node-icon" height="40" width="50" title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="node-icon" height="40" width="50" title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg">
   <!--MongoDB-->
-  <img align="center" alt="mongoDB-icon" height="40" width="50" title="Mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="mongoDB-icon" height="40" width="50" title="Mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg">
 </div> <br>
 <em>"A mind that is stretched by a new experience can never go back to its old dimensions" ~Oliver Wendell Holmes Jr.</em>
 
