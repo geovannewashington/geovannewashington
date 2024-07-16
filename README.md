@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **21-year-old Computer Science student in Recife, Brazil at [Cin-UFPE](https://www.cin.ufpe.br)**. A **Full-Stack Developer** experienced in building web applications using the latest technologies. Passionate about learning and expanding my skills, I enjoy taking on new challenges and working on innovative projects.
+I'm a **21-year-old Computer Science student in Recife, Brazil at [Cin-UFPE](https://www.cin.ufpe.br)**. A **Full-Stack Developer** experienced in building web applications using the latest technologies. Passionate about learning, expanding my skills and also teaching it, I enjoy taking on new challenges.
 
 ## Technologies I Work With
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
