@@ -18,4 +18,4 @@ I'm a **21-year-old Computer Science student in Recife, Brazil at [Cin-UFPE](htt
 - [LinkedIn](https://www.linkedin.com/in/gvnwv/)
 - [Email](mailto:geoxp98@gmail.com)
 
-"A mind that is stretched by a new experience can never go back to its old dimensions" ~Oliver Wendell Holmes Jr.
+> ***"A mind that is stretched by a new experience can never go back to its old dimensions" ~Oliver Wendell Holmes Jr.***
