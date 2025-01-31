@@ -1,6 +1,4 @@
-# Full-Stack Developer
-
-I transitioned from mechanical engineering to computer science, driven by a passion for programming. Specialized in **full-stack web development**, covering both front-end and back-end tasks.
+# I'm 21 and a Computing Enthusiast.
 
 ## Skills
 
