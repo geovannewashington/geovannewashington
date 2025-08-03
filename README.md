@@ -1,6 +1,6 @@
 # Welcome. 🪽
 
-I’m an aspiring general-purpose computer enthusiast with a current focus on web programming. I also enjoy low-level programming, Unix environments, tooling, systems, and graphics programming. If I hadn’t been born poor, I’d probably spend all my time doing recreational programming and playing with math — no, really.  
+I’m an aspiring general-purpose computing enthusiast with a current focus on web programming. I also enjoy low-level programming, Unix environments, tooling, systems, and graphics programming. If I hadn’t been born poor, I’d probably spend all my time doing recreational programming and playing with math — no, really.  
 
 I’m a Systems Analysis & Development student and a former engineering student at a federal university. I write on Medium about what I learn and stream daily study sessions.
 
