@@ -1,15 +1,20 @@
 # Welcome. 🪽
-
-I’m an aspiring general-purpose computing enthusiast with a current focus on web programming. I also enjoy low-level programming, Unix environments, tooling, systems, and graphics programming. If I hadn’t been born poor, I’d probably spend all my time doing recreational programming and playing with math — no, really.  
-
-I’m a Systems Analysis & Development student and a former engineering student at a federal university. I write on Medium about what I learn and stream daily study sessions.
+Visit this link in case you want to know more [about me](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing) (Portuguese)
 
 **Currently reading**: K&R  
 **Learning**: Express.js, MongoDB and taking CS50         
 **Looking forward to**: C++, SDL3, raylib, OpenGL, Python, Flask, SQL, React, TypeScript   
 **Improving my skills in**: English, Linux, Neovim, Math, HTML & CSS, Node.js, and writing
 
-I’m always watching or reading something — right now I’m watching The Simpsons and reading A Study in Scarlet, the first Sherlock Holmes novel.
+Feel free to get in touch!  
 
-Anyway, that’s enough about me. Feel free to get in touch!  
-~ TposeProgrammer on YouTube & Twitch 🐧
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gvnwv/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@tposeprogrammer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:geoxp98@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TposeProgrammer)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/tposeprogrammer)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/geovanne_washington)
+
+
+
+
