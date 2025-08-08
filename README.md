@@ -1,5 +1,6 @@
 # Welcome. 🪽
-Visit this link in case you want to know more [about me](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing) (Portuguese)
+Visit this link in case you want to know more [about me](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing) (Portuguese) <br>
+Check out my server on [Revolt](https://app.revolt.chat/server/01K250DFF3JB0MF1AJ8DJCST0B)
 
 **Currently reading**: K&R  
 **Learning**: Express.js, MongoDB and taking CS50         
