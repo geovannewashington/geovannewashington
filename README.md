@@ -1,6 +1,6 @@
 # Welcome. 🪽
-Visit this link in case you want to know more [about me](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing) (Portuguese) <br>
-Check out my server on [Revolt](https://app.revolt.chat/server/01K250DFF3JB0MF1AJ8DJCST0B)
+<span target="_blank"> Visit this link in case you want to know more <a href="https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing">about me</a> (Portuguese) </span> <br>
+<span target="_blank"> Check out my server on <a href="https://app.revolt.chat/server/01K250DFF3JB0MF1AJ8DJCST0B">Revolt!</a> </span> 
 
 **Currently reading**: K&R  
 **Learning**: Express.js, MongoDB and taking CS50         
