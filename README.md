@@ -3,8 +3,8 @@
 <span target="_blank"> Check out my server on <a href="https://rvlt.gg/aX4Pa9Y8">Revolt!</a> </span> 
 
 **Currently reading**: K&R  
-**Learning**: Express.js, MongoDB and taking CS50         
-**Looking forward to**: C++, SDL3, raylib, OpenGL, Python, Flask, SQL, React, TypeScript   
+**Learning**: Express.js, MongoDB, TypeScript, Svelte, Astro and taking CS50         
+**Looking forward to**: C++, SDL3, raylib, OpenGL, Python, Flask, SQL, React, Golang   
 **Improving my skills in**: English, Linux, Neovim, Math, HTML & CSS, Node.js, and writing
 
 Feel free to get in touch!  
