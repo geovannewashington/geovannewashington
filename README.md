@@ -1,6 +1,6 @@
 # Welcome. 🪽
 <span target="_blank"> Find out more about me (Portuguese) <a href="https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing">docs.google</a> </span> <br>
-<span target="_blank"> Check out my server on <a href="https://rvlt.gg/aX4Pa9Y8">Revolt!</a> </span> 
+<span target="_blank"> Check out my server on <a href="https://discord.gg/ahMyUguT8v">Discord!</a> </span> 
 
 **Currently reading**: K&R  
 **Learning**: Express.js, MongoDB, TypeScript, Svelte, Astro and taking CS50         
