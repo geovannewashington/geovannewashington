@@ -2,7 +2,7 @@
 
 Hi, I'm Geovanne.
 
-📄 [About me (PT-BR)](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/edit?usp=sharing)  
+📄 [About me (PT-BR)](https://docs.google.com/document/d/1tu95qrKO8qnXUlHcNdNii42xAG8SCOsiubR-etksujY/preview)  
 💬 [Join my Discord](https://discord.gg/ahMyUguT8v)  
 
 ---
