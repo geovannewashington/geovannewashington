@@ -8,4 +8,13 @@ I’m seeking my first software engineering internship, with a focus on backend 
 
 I enjoy working close to the system. 🛰️
 
+> **Currently studying / working on**
+> - Go fundamentals & idiomatic syntax
+> - Bubble Tea (TUI framework)
+> - HTTP in Go
+> - Error handling and testing
+> - Docker basics
+> - Git workflows
+> - Linux tooling
+
 Contact: geoxp98@gmail.com 
