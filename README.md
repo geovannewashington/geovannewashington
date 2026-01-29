@@ -19,6 +19,6 @@ Go backend developer focused on Linux systems, CLI tools and infrastructure-styl
 - **Systems:** Linux, shell, networking fundamentals
 - **Tools:** Git, Docker (basics)
 
+<br>
 
-
-📫 Contact: geoxp98@gmail.com 
+Contact: geoxp98@gmail.com 
