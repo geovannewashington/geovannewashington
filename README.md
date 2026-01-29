@@ -1,20 +1,24 @@
-<h2 align="center">☄️ Hey, welcome! </h2>
+<h2 align="center">Hi, I'm Geovanne 👋</h2>
+
+<p align="center">
+Go backend developer focused on Linux systems, CLI tools and infrastructure-style software.
+</p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
-My name is Geovanne, known online by the nickname TposeProgrammer 📖🕯️ 
 
-I’m seeking my first software engineering internship, with a focus on backend development using Go or systems programming in C.
+### What I build
+- Backend services in Go (HTTP, concurrency, APIs)
+- CLI tools and system utilities
+- Linux-focused tooling and automation
+- Clean, idiomatic code with tests
 
-I enjoy working close to the system. 🛰️
+### Tech stack
+- **Languages:** Go, C
+- **Backend:** net/http, REST, SQLite/Postgres basics
+- **Systems:** Linux, shell, networking fundamentals
+- **Tools:** Git, Docker (basics)
 
-> **Currently studying / working on**
-> - Go fundamentals & idiomatic syntax
-> - Bubble Tea (TUI framework)
-> - HTTP in Go
-> - Error handling and testing
-> - Docker basics
-> - Git workflows
-> - Linux tooling
 
-Contact: geoxp98@gmail.com 
+
+📫 Contact: geoxp98@gmail.com 
