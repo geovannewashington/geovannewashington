@@ -18,7 +18,11 @@ Go backend developer focused on Linux systems, CLI tools and infrastructure-styl
 - **Backend:** net/http, REST, SQLite/Postgres basics
 - **Systems:** Linux, shell, networking fundamentals
 - **Tools:** Git, Docker (basics)
-
+  
+### Currently
+- Building backend and systems-oriented projects in Go
+- Seeking internship or junior backend roles
+  
 <br>
 
 Contact: geoxp98@gmail.com 
