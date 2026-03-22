@@ -1,6 +1,8 @@
-### Welcome, I'm Geovanne W. Vasconcelos 👋
+### Geovanne W. Vasconcelos 👋
 
 Backend Engineer (Trainee) @ ShellHub <br>
-I'm known online by the nickname 'TposeProgrammer', I create programming-related content.
+Go, Linux, Open Source
+
+Creating programming content as TposeProgrammer
 
 Contact: geoxp98@gmail.com 
