@@ -3,6 +3,12 @@
 Backend Engineer (Trainee) @ [ShellHub](https://github.com/shellhub-io/shellhub) — 21st century SSH.  
 Go, Linux, Open Source
 
+My life goal is to find peace in the small things and live each day calmly, always learning as much as possible, with the aim of becoming a reference, sharing my knowledge, and building useful or experimental projects. I don’t feel pressured by the responsibility of creating software used by many people.
+
+Professionally, I specialize in Go, Linux, and related areas. In my free time, I enjoy exploring low-level concepts (assembly, C) and hardware. I am also interested in music production, viewing it through the lens of software engineering.
+
+I’m a Linux enthusiast who enjoys exploring open-source projects. I also like understanding the full lifecycle of technologies we often take for granted, purely to deepen my own understanding.
+
 Programming-related content: [TposeProgrammer (Portuguese)](https://www.youtube.com/@tposeprogrammer) | [Mrtypo7 (English)](https://www.youtube.com/@mrtypo7) 
 
 Contact: geoxp98@gmail.com
