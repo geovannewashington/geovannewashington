@@ -9,6 +9,4 @@ Professionally, I specialize in Go, Linux, and related areas. In my free time, I
 
 I’m a Linux enthusiast who enjoys exploring open-source projects. I also like understanding the full lifecycle of technologies we often take for granted, often extending my curiosity beyond software to areas like physics and mathematics (e.g., how a monitor renders images), purely to deepen my own understanding.
 
-Programming-related content: [TposeProgrammer (Portuguese)](https://www.youtube.com/@tposeprogrammer) | [Mrtypo7 (English)](https://www.youtube.com/@mrtypo7) 
-
 Contact: geoxp98@gmail.com
