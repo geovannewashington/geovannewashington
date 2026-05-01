@@ -1,5 +1,5 @@
 ### Geovanne W. Vasconcelos 👋
-Go Software Engineer @ [ShellHub](https://github.com/shellhub-io/shellhub) — open-source SSH for remote device management.  
+Go(lang) Software Engineer @ [ShellHub](https://github.com/shellhub-io/shellhub) — open-source SSH for remote device management.  
 Go · Linux · Open Source
 
 My life goal is to find peace in the small things and live each day calmly, always learning as much as possible, with the aim of becoming a reference, sharing my knowledge, and building useful or experimental projects. I don't feel pressured by the responsibility of creating software used by many people.
